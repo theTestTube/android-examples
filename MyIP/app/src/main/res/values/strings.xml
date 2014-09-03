@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyIP</string>
+    <string name="address_header_text">Service IP address:</string>
+    <string name="unknown_address_text">unknown</string>
+    <string name="nated">Your connection is nated or proxied</string>
+    <string name="not_nated">Your connection is not nated or proxied</string>
+
+</resources>
